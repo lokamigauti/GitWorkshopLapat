@@ -1,0 +1,11 @@
+---
+title: "Projeto"
+output: html_notebook
+---
+
+# Script para contribuição
+
+```{r}
+Nome <- c("Leo", "Marcinha", "Mario") # Adicione seu nome aqui
+paste(paste(Nome, collapse = " e "), "chegaram aqui!") # Clique Ctrl+Shift+Enter para rodar o chunk
+```

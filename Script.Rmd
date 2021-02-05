@@ -6,6 +6,6 @@ output: html_notebook
 # Script para contribuição
 
 ```{r}
-Name <- c("Leo", "Marcinha", "Mario", "Veronika") # Adicione seu nome aqui
+Name <- c("Leo", "Marcinha", "Mario", "Veronika", "Jano") # Adicione seu nome aqui
 paste(paste(Name, collapse = " e "), "chegaram aqui!") # Clique Ctrl+Shift+Enter para rodar o chunk
 ```
